@@ -2,3 +2,6 @@ body {
     color: rgba(240, 224, 7, 0.918);
     background: darkolivegreen;
 }
+header{
+    border:2px rgba(240, 224, 7, 0.918)
+}
