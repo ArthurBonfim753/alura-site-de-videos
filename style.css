@@ -1,11 +1,10 @@
 body {
     color: rgba(240, 224, 7, 0.918);
     background: darkolivegreen;
-    margin: 0px;
+    
 }
 
 header{
     border-bottom: solid 1px rgba(240, 224, 7, 0.918);
     padding: 20px;
-    a
 }
